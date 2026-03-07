@@ -15,7 +15,7 @@ Kamu mendapatkan misi suci dari Ibu: **Membeli takjil pesanan di kawasan Sudirma
 * **Easter Eggs:** Temukan "Protokol Rahasia" untuk mengaktifkan mode Sultan!
 
 ## 🎮 Cara Bermain
-1. Buka link game: [MASUKKAN LINK GITHUB PAGES KAMU DI SINI]
+1. Buka link game: https://yogoaj.github.io/war-takjil-jakarta-simulator/
 2. Klik pilihan narasi untuk menentukan langkahmu.
 3. Hati-hati dengan pilihanmu, setiap detik berharga!
 
