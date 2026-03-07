@@ -1,9 +1,9 @@
-# 🥐 Ngabuburit Simulator: Berburu Takjil Sudirman 🏙️
+# 🥐 Ngabuburit Simulator: Berburu Takjil Jakarta 🏙️
 
 ![Status](https://img.shields.io/badge/Status-Live-success)
 ![Engine](https://img.shields.io/badge/Engine-Twine_Harlowe-orange)
 
-**Ngabuburit Simulator** adalah game naratif berbasis teks (*Interactive Fiction*) yang membawa kamu ke tengah hiruk-pikuk Jakarta menjelang waktu berbuka puasa. 
+**Ngabuburit Simulator** Edisi Berburu Takjil Jakarta adalah game naratif berbasis teks (*Interactive Fiction*) yang membawa kamu ke tengah hiruk-pikuk Jakarta menjelang waktu berbuka puasa. 
 
 ## 📝 Sinopsis
 Kamu mendapatkan misi suci dari Ibu: **Membeli takjil pesanan di kawasan Sudirman.** Namun, jalanan macet, antrean mengular, dan dompet menipis. Bisakah kamu pulang membawa gorengan hangat tepat sebelum adzan Maghrib berkumandang, atau kamu justru akan berakhir pingsan di trotoar karena kelaparan?
